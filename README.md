@@ -91,8 +91,3 @@ The dataset ensures the model can handle **different environments, facial coveri
 
 ---
 
-## **Author**  
-👨‍💻 **Husain Yunus Maudiwala**  
-
-
----
