@@ -76,7 +76,7 @@ The dataset ensures the model can handle **different environments, facial coveri
 ---
 
 ## **Future Enhancements**  
-🔹 **Additional Object Detection (Weapons, Knives, Break-In Devices** – The model could be trained on an even larger dataset that includes arms and break-in tools to notify the user. 
+🔹 **Additional Object Detection (Weapons, Knives, Break-In Devices)** – The model could be trained on an even larger dataset that includes arms and break-in tools to notify the user. 
 
 🔹 **Integration with Smart Home Systems** – Sync alerts with **smart locks, alarms, and security apps**.  
 🔹 **Expanded Dataset** – Incorporate **thermal imaging** for night-time intruder detection.  
